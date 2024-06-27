@@ -42,6 +42,13 @@ Don’t be shy if you’ve questions or just want to chat! Hit me up here or dro
 
 💌 Can’t wait to hear from you! 💌
 
-
+## 🙋‍♀️ Let's Connect
+<p align="center">
+  <a href="drive.google.com/drive/folders/19kNYt137fKu89eQ_PzT1vf5z4VZPZ4TO?usp=sharing"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:nayarith070@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="github.com/Naya070"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="linkedin.com/in/nayarith-jiménez"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	
+</p>
 
 ![peach-goma-pc-headset](https://github.com/Naya070/Naya070/assets/80334512/f6619ab9-1df6-4801-934e-33e7e0cb9861)
