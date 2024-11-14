@@ -6,8 +6,8 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 
 </p>
 <h3 align="left">Tools:</h3>
 <p align="left"> 
@@ -30,42 +30,48 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
 </p>
 
+
 ### About me 👩‍🦰:
+
 # Hey there, GitHub friends! 👋
 
 
-My name is Nayarith Jiménez, nice to meet you!
+My name is **Nayarith Jiménez**, nice to meet you!
 
 
-I'm a $\huge{\textsf{mechatronics engineer}}$ with a crazy love for $\huge{\textsf{web development}}$, especially the backend magic. 🚀
+I am a full stack developer with a strong focus on backend development. Currently, I work as an Ssr Backend Developer, leveraging modern technologies to build robust and scalable solutions. My experience includes creating and maintaining efficient APIs, as well as managing relational databases.
 
-These days, I’m deep in the world of $\huge{\textsf{backend development}}$, playing with the coolest modern tech and frameworks.
+I work with key technologies such as TypeScript and Node.js, particularly using the NestJs framework, allowing me to develop high-performance applications. My expertise in databases is centered on PostgreSQL, though I also have experience with MySQL and SQLite.
 
-My daily grind involves conjuring up robust and scalable apps using TypeScript and Node.Js, with a sprinkle of Nest.Js for that extra kick. 💻✨
+Additionally, my background includes roles as a full stack developer, where I combined user interface creation with React.js and backend development, gaining a comprehensive understanding of the full software development cycle. I employ rigorous testing practices, such as unit testing with Jest and end-to-end (E2E) testing with Postman, to ensure the highest quality in every project.
 
-I’m a PostgreSQL wizard, but I’ve also cast some spells with MySQL and SQLite.
-
-And when it comes to APIs, I whip up some pretty slick and flexible ones with GraphQL. 🪄
+I am constantly seeking to learn new technologies and face challenges with determination, focusing on delivering value in every project I undertake.
 
  <img align="right" alt="NayaImage" src="https://github.com/Naya070/Naya070/assets/80334512/b156d7ab-327a-4fa8-ae5e-38006ed79b95" />
 
 ---
+### Key Experience:
+- Backend Developer at The Centria Group: Creation, maintenance, and optimization of code, planning and developing new features. (August 2023 - Present)
 
-In my past adventures as a full-stack developer, I've danced between crafting sleek user interfaces with React.js and building solid backends.
+- Freelance Full Stack Developer: Maintenance of graphical interfaces and API management. (December 2022 - September 2023)
 
-This blend gives me a superpower: a full-circle view of the software development life cycle. 🌐
+- Software Developer at Servicios Topogeofísica 2025 C.A.: Development of software for business management. (March - November 2022)
 
-This all-around experience helps me cook up complete and effective solutions.
+---
+### Technical Skills:
++ **Languages**: TypeScript, JavaScript, Java, Python
+
++ **Frameworks**: NestJs, Express, React.js, Next.js
+
++ **Databases**: PostgreSQL, MySQL, SQLite
+
++ **Testing**: Jest, Postman (E2E)
+
++ **Tools & Principles**: Docker, TypeORM, GraphQL, SOLID, Git
 
 ---
 
-Quality is my middle name (well, not really, but you get it).
-
-I’m all about rigorous testing, from unit tests with Jest to end-to-end (E2E) explorations with Postman. 🧪🔍
-
----
-
-I'm always on the lookout for new challenges and love adding a dash of value to every project I dive into.
+I am a problem-solving professional with strong analytical thinking and teamwork skills, familiar with agile methodologies like Scrum.
 
 Don’t be shy if you’ve questions or just want to chat! Hit me up here or drop me an email at nayarith070@gmail.com.
 
@@ -75,8 +81,7 @@ Don’t be shy if you’ve questions or just want to chat! Hit me up here or dro
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="drive.google.com/drive/folders/19kNYt137fKu89eQ_PzT1vf5z4VZPZ4TO?usp=sharing"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:nayarith070@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  	<a href="mailto:nayarith070@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="github.com/Naya070"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="linkedin.com/in/nayarith-jiménez"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	
